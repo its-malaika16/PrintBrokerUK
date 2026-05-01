@@ -37,7 +37,7 @@ export function Footer() {
               <div className="flex h-10 w-10 items-center justify-center rounded-lg bg-primary">
                 <Printer className="h-6 w-6 text-primary-foreground" />
               </div>
-              <span className="text-xl font-bold text-foreground">PrintConnect</span>
+              <span className="text-xl font-bold text-foreground">Print Broker UK</span>
             </Link>
             <p className="mt-4 max-w-sm text-sm text-muted-foreground">
               The premier platform to find, compare, and connect with top printing service providers. Get quotes from multiple vendors in one request.
@@ -95,9 +95,9 @@ export function Footer() {
                 <span>123 Print Street, London, UK EC1A 1BB</span>
               </li>
               <li>
-                <a href="mailto:hello@printconnect.com" className="flex items-center gap-2 text-sm text-muted-foreground transition-colors hover:text-primary">
+                <a href="mailto:hello@Print Broker UK.com" className="flex items-center gap-2 text-sm text-muted-foreground transition-colors hover:text-primary">
                   <Mail className="h-4 w-4 shrink-0 text-primary" />
-                  hello@printconnect.com
+                  hello@Print Broker UK.com
                 </a>
               </li>
               <li>
@@ -114,7 +114,7 @@ export function Footer() {
         <div className="mt-12 border-t border-border pt-8">
           <div className="flex flex-col items-center justify-between gap-4 md:flex-row">
             <p className="text-sm text-muted-foreground">
-              &copy; {new Date().getFullYear()} PrintConnect. All rights reserved.
+              &copy; {new Date().getFullYear()} Print Broker UK. All rights reserved.
             </p>
             <div className="flex gap-6">
               {support.map((item) => (

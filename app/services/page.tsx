@@ -13,7 +13,7 @@ import {
 import type { Metadata } from "next"
 
 export const metadata: Metadata = {
-  title: "Printing Services | PrintConnect",
+  title: "Printing Services | Print Broker UK",
   description: "Explore our comprehensive range of printing services including business cards, banners, packaging, signage, corporate branding, and more. Get quotes from verified vendors.",
 }
 

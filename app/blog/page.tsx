@@ -4,7 +4,7 @@ import { ArrowRight, Clock, User } from "lucide-react"
 import type { Metadata } from "next"
 
 export const metadata: Metadata = {
-  title: "Blog | PrintConnect",
+  title: "Blog | Print Broker UK",
   description: "Expert insights, guides, and tips for all your printing needs. Learn about the latest trends, best practices, and how to choose the right printing partner.",
 }
 
@@ -86,7 +86,7 @@ export default function BlogPage() {
         <div className="mx-auto max-w-7xl px-4 lg:px-8">
           <div className="mx-auto max-w-3xl text-center">
             <h1 className="text-4xl font-bold text-foreground lg:text-5xl">
-              PrintConnect Blog
+              Print Broker UK Blog
             </h1>
             <p className="mt-4 text-lg text-muted-foreground">
               Expert insights, guides, and tips to help you make better printing decisions for your business.

@@ -2,14 +2,14 @@ import { Star, Quote } from "lucide-react"
 
 const testimonials = [
   {
-    quote: "PrintConnect saved us hours of research. We received 5 quotes within a day and found a vendor that delivered exceptional quality at a great price.",
+    quote: "Print Broker UK saved us hours of research. We received 5 quotes within a day and found a vendor that delivered exceptional quality at a great price.",
     author: "Sarah Mitchell",
     role: "Marketing Director",
     company: "TechFlow Solutions",
     rating: 5,
   },
   {
-    quote: "As a startup, we needed affordable printing without compromising quality. PrintConnect connected us with the perfect partner for our packaging needs.",
+    quote: "As a startup, we needed affordable printing without compromising quality. Print Broker UK connected us with the perfect partner for our packaging needs.",
     author: "James Chen",
     role: "Founder",
     company: "GreenBox Co.",
@@ -36,7 +36,7 @@ export function Testimonials() {
             Trusted by Businesses Like Yours
           </h2>
           <p className="mx-auto mt-4 max-w-2xl text-lg text-muted-foreground">
-            See what our clients say about their experience with PrintConnect
+            See what our clients say about their experience with Print Broker UK
           </p>
         </div>
 

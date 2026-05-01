@@ -38,11 +38,11 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
   const vendor = getVendorBySlug(slug)
   
   if (!vendor) {
-    return { title: "Vendor Not Found | PrintConnect" }
+    return { title: "Vendor Not Found | Print Broker UK" }
   }
 
   return {
-    title: `${vendor.name} | PrintConnect`,
+    title: `${vendor.name} | Print Broker UK`,
     description: vendor.description,
   }
 }

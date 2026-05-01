@@ -15,8 +15,8 @@ import {
 import type { Metadata } from "next"
 
 export const metadata: Metadata = {
-  title: "About Us | PrintConnect",
-  description: "Learn about PrintConnect - the premier platform connecting businesses with top printing service providers. Our mission, vision, and commitment to quality.",
+  title: "About Us | Print Broker UK",
+  description: "Learn about Print Broker UK - the premier platform connecting businesses with top printing service providers. Our mission, vision, and commitment to quality.",
 }
 
 const stats = [
@@ -53,7 +53,7 @@ const team = [
   {
     name: "David Wilson",
     role: "Founder & CEO",
-    bio: "20+ years in the printing industry. Founded PrintConnect to solve the vendor discovery problem.",
+    bio: "20+ years in the printing industry. Founded Print Broker UK to solve the vendor discovery problem.",
   },
   {
     name: "Sarah Mitchell",
@@ -80,7 +80,7 @@ export default function AboutPage() {
         <div className="mx-auto max-w-7xl px-4 lg:px-8">
           <div className="mx-auto max-w-3xl text-center">
             <h1 className="text-4xl font-bold text-foreground lg:text-5xl">
-              About PrintConnect
+              About Print Broker UK
             </h1>
             <p className="mt-6 text-lg text-muted-foreground lg:text-xl">
               We&apos;re on a mission to transform how businesses find and connect with printing service providers. No more endless searching, no more uncertainty — just the right partners for your needs.
@@ -111,13 +111,13 @@ export default function AboutPage() {
                 Built by People Who Understand Printing
               </h2>
               <p className="mt-6 text-muted-foreground leading-relaxed">
-                PrintConnect was born from frustration. Our founder, David Wilson, spent 20 years in the printing industry and saw firsthand how difficult it was for businesses to find the right printing partners. Hours of research, countless phone calls, and still no guarantee of quality or fair pricing.
+                Print Broker UK was born from frustration. Our founder, David Wilson, spent 20 years in the printing industry and saw firsthand how difficult it was for businesses to find the right printing partners. Hours of research, countless phone calls, and still no guarantee of quality or fair pricing.
               </p>
               <p className="mt-4 text-muted-foreground leading-relaxed">
                 In 2020, we set out to change that. We built a platform that brings together verified printing vendors and makes it easy for businesses to compare, connect, and get competitive quotes — all in one place.
               </p>
               <p className="mt-4 text-muted-foreground leading-relaxed">
-                Today, PrintConnect serves thousands of businesses across the UK, connecting them with our network of 500+ trusted vendors. From business cards to exhibition displays, we&apos;re here to help you find the perfect printing partner for every project.
+                Today, Print Broker UK serves thousands of businesses across the UK, connecting them with our network of 500+ trusted vendors. From business cards to exhibition displays, we&apos;re here to help you find the perfect printing partner for every project.
               </p>
             </div>
             <div className="relative">
@@ -190,7 +190,7 @@ export default function AboutPage() {
         <div className="mx-auto max-w-7xl px-4 lg:px-8">
           <div className="mx-auto max-w-3xl text-center">
             <h2 className="text-3xl font-bold text-primary-foreground lg:text-4xl">
-              How PrintConnect Works
+              How Print Broker UK Works
             </h2>
             <p className="mt-4 text-primary-foreground/90">
               Our unique business model benefits both businesses and vendors.
@@ -244,7 +244,7 @@ export default function AboutPage() {
               Our Team
             </span>
             <h2 className="mt-4 text-3xl font-bold text-foreground lg:text-4xl">
-              The People Behind PrintConnect
+              The People Behind Print Broker UK
             </h2>
           </div>
 
@@ -270,7 +270,7 @@ export default function AboutPage() {
             Ready to Find Your Perfect Printing Partner?
           </h2>
           <p className="mx-auto mt-4 max-w-2xl text-lg text-muted-foreground">
-            Join thousands of businesses who have found their ideal printing vendors through PrintConnect.
+            Join thousands of businesses who have found their ideal printing vendors through Print Broker UK.
           </p>
           <div className="mt-8 flex flex-col gap-4 sm:flex-row sm:justify-center">
             <Button size="lg" asChild>

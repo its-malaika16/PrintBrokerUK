@@ -39,7 +39,7 @@ export function WhyChooseUs() {
       <div className="mx-auto max-w-7xl px-4 lg:px-8">
         <div className="text-center">
           <span className="inline-block rounded-full bg-primary/10 px-4 py-2 text-sm font-medium text-primary">
-            Why PrintConnect
+            Why Print Broker UK
           </span>
           <h2 className="mt-4 text-3xl font-bold text-foreground lg:text-4xl">
             The Smarter Way to Source Printing

@@ -16,7 +16,7 @@ const playfair = Playfair_Display({
 });
 
 export const metadata: Metadata = {
-  title: 'PrintConnect | Find, Compare & Connect with Top Printing Service Providers',
+  title: 'Print Broker UK | Find, Compare & Connect with Top Printing Service Providers',
   description: 'The premier aggregator platform to find, compare, and connect with top printing service providers. Get free quotes from multiple vendors for business cards, banners, packaging, signage and more.',
   keywords: 'printing services, print vendors, business cards printing, banner printing, packaging printing, printing comparison, print quotes',
 }
