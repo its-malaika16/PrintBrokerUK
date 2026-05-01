@@ -95,9 +95,9 @@ export function Footer() {
                 <span>123 Print Street, London, UK EC1A 1BB</span>
               </li>
               <li>
-                <a href="mailto:hello@Print Broker UK.com" className="flex items-center gap-2 text-sm text-muted-foreground transition-colors hover:text-primary">
+                <a href="mailto:Accounts@printbrokeruk.co.uk" className="flex items-center gap-2 text-sm text-muted-foreground transition-colors hover:text-primary">
                   <Mail className="h-4 w-4 shrink-0 text-primary" />
-                  hello@Print Broker UK.com
+                  Accounts@printbrokeruk.co.uk
                 </a>
               </li>
               <li>

@@ -67,8 +67,8 @@ export default function ContactPage() {
                   <div>
                     <h3 className="font-semibold text-foreground">Email</h3>
                     <p className="mt-1 text-muted-foreground">For general inquiries</p>
-                    <a href="mailto:hello@Print Broker UK.com" className="mt-1 text-primary hover:underline">
-                      hello@Print Broker UK.com
+                    <a href="mailto:Accounts@printbrokeruk.co.uk" className="mt-1 text-primary hover:underline">
+                      Accounts@printbrokeruk.co.uk
                     </a>
                   </div>
                 </div>
